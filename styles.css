@@ -1,0 +1,11 @@
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(64, 122, 193);
+    height: 1000px;
+}
+.heading{
+    background-color: rgb(120, 145, 145);
+}
